@@ -1,0 +1,14 @@
+body {
+	background: #ffffff url("../images/background.jpg") no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.well{
+	background-color: #fff;
+}
+.checkbox label{
+	font-size: 18px;
+}
+.radio label{
+	font-size: 18px;
+}

@@ -1,0 +1,8 @@
+.well{
+	background-color: #fff;
+}
+body{
+	background: url('../../../../../images/background.jpg') no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
