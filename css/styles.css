@@ -12,3 +12,9 @@ body {
 .radio label{
 	font-size: 18px;
 }
+.threeCol{
+	border-right: 1px solid black;
+}
+.threeCol:last-of-type{
+	border-right: none;
+}

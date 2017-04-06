@@ -1,6 +1,8 @@
 
 $(document).ready(function(){
-	$('#userTable').DataTable({
+	$('.table').DataTable({
+		"iDisplayLength": -1,
+	 	"lengthMenu": [ [-1], ["All"] ],
 		dom: 'lBfrtip',
 		buttons: ['csv', 'excel', 'pdf', "print"],
 	});
